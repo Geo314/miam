@@ -3,7 +3,7 @@ package com.cursan.homeshop;
 public class Product {
     private String name;
     private String description;
-    privite double price;
+    private double price;
 
     /**
      * Display a full description of the product
